@@ -1,0 +1,3 @@
+client#//#1#//#client1@gmail.com#//#11111111#//#c1#//#client1#//#500.000000
+client#//#2#//#client2@gmail.com#//#22222222#//#c2#//#client2#//#5000.000000
+client#//#3#//#client3@gmail.com#//#33333333#//#c3#//#client3#//#15000.000000
