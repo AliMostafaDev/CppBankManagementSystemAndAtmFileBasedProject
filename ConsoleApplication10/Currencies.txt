@@ -109,7 +109,7 @@ Kuwait#//#KWD#//#Kuwaiti Dinar#//#0.307000
 Kyrgyzstan#//#KGS#//#Kyrgyzstan Som#//#84.000000
 "Lao, People's Dem. Rep."#//#LAK#//#Laos Kip#//#17363.000000
 Latvia#//#EUR#//#Euro#//#0.938000
-Lebanon#//#LBP#//#Lebanese Pound#//#90000.000000
+Lebanon#//#LBP#//#Lebanese Pound#//#89000.000000
 Lesotho#//#LSL#//#Lesotho Loti#//#17.351000
 Liberia#//#LRD#//#Liberian Dollar#//#153.412003
 Libyan Arab Jamahiriya#//#LYD#//#Libyan Dinar#//#4.847000

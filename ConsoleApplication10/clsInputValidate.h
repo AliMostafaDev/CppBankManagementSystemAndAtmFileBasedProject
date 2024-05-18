@@ -73,7 +73,7 @@ public:
 		return Number;
 	}
 
-	static short ReadShortNumberBetween(short From, short To, string ErrorMessage = "Number is not within range, Enter again:\n")
+	static short ReadShortNumberBetween(short From, short To, string ErrorMessage = "Number is not within range, \nEnter again:\n")
 	{
 		int Number = ReadShortNumber();
 

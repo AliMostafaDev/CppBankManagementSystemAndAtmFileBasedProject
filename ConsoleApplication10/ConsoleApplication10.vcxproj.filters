@@ -141,6 +141,9 @@
     <ClInclude Include="clsPeriod.h">
       <Filter>Header Files\Lib</Filter>
     </ClInclude>
+    <ClInclude Include="clsAtmMainScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">

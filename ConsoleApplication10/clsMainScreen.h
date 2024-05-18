@@ -165,7 +165,7 @@ private:
             break;
 
         case enMainMenueOptions::eExit:
-            system("cls");
+            
             _Logout();
             break;
         }
