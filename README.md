@@ -4,10 +4,6 @@ This project is a comprehensive C++ application that simulates an ATM and a bank
 
 When logged in, the admin can start creating users for managing the bank system and giving them their permissions on the system. Additionally, users can create accounts for clients to use in the ATM.
 
-
-ATM and Bank Management System
-This project is a comprehensive C++ application that simulates an ATM and a bank management system using Object-Oriented Programming (OOP) principles. The system is designed to cater to both regular users (ATM functionalities) and administrative users (bank management functionalities). The application offers a robust platform for managing banking operations efficiently and securely.
-
 *Features*
 ATM Functionalities:
 -Balance Inquiry: Check the balance of an account.
